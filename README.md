@@ -15,3 +15,9 @@
 <hr/>
 <h3> Below are some of my side-projects.</h3>
 <hr/>
+
+<div>
+    <p>Helsinki MOOC </p>
+    <a href="" > Helsinki Mooc<a/>   
+</div>
+
