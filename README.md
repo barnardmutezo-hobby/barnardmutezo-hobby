@@ -18,6 +18,6 @@
 
 <div>
     <p>Helsinki MOOC </p>
-    <a href="" > Helsinki Mooc<a/>   
+    <a href="https://github.com/barnardmutezo-hobby/HKI-Fullstack-Open" > Helsinki Mooc<a/>   
 </div>
 
